@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "esnext",
+        "moduleResolution": "node",
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "allowJs": true,
+        "checkJs": true,
+        "noEmit": true,
+        "rootDir": "./src/",
+        "strict": true,
+        "allowImportingTsExtensions": true,
+        "forceConsistentCasingInFileNames": true,
+    },
+    "exclude": ["node_modules", "eslint.config.mjs"],
+}
